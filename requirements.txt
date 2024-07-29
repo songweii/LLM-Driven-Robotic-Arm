@@ -1,0 +1,10 @@
+# pip install -r requirements.txt
+#检测需要安装paddlepaddle2.3.2
+
+# base ----------------------------------------
+opencv-python==4.6.0.66
+pyrealsense2
+tqdm
+transforms3d
+dashscope
+erniebot
