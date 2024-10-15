@@ -1,5 +1,5 @@
 # LLM-driven Robotic Arm
- This is a project involving an intelligent robotic arm that uses a large language model to make decisions and generate actions for General-purpose Operations.
+ This is a project involving an intelligent robotic arm that uses a large language model to make decisions and generate actions for general-purpose operations.
 
 <div align=center><img src="assets/pipline.svg" height="100%" width="90%"/></div>
 
