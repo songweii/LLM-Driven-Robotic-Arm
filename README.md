@@ -8,4 +8,5 @@ The framework consists of an STT module, a decision module, and the robotic arm 
 
 By leveraging the common-sense capabilities of LLMs, the robotic arm can extend beyond task-specific constraints to demonstrate exceptional general-purpose functionality. It can generalize to a variety of everyday tasks, such as grasping objects, arranging flowers in a vase, watering plants, and greeting people.
 
-## Demos
+## Demo
+https://github.com/user-attachments/assets/11538fc8-fa0d-4f95-85f1-10a14433232c
